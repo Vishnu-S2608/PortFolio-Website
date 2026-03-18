@@ -247,8 +247,7 @@
     if (!el) return;
 
     const strings = [
-      'AI Engineer',
-      'Machine Learning Developer',
+      'AI Enthusiast',
       'LLM Application Builder',
       'Full Stack Developer'
     ];
